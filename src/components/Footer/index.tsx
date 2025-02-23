@@ -3,7 +3,7 @@ import { FaArrowUp } from 'react-icons/fa';
 
 export default function Footer() {
   return (
-    <footer className="relative flex items-center justify-between bg-tertiary p-6 text-secondary">
+    <footer className="relative flex items-center justify-between bg-primary p-6 text-secondary">
       <div className="relative flex flex-col items-center">
         <img src={Logo} alt="Logo" className="w-20 rounded-full md:w-28" />
         <p className="mt-4 text-center text-sm text-secondary md:text-base">
